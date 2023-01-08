@@ -1,3 +1,5 @@
+// aSzymon - gtihub
+
 document.getElementById('przycisk1').addEventListener('click',pobieranieDanychJson1);
 
 document.getElementById('przycisk2').addEventListener('click',pobieranieDanychJson2);
